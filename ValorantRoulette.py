@@ -26,7 +26,9 @@ AGENTS = {
 13: "Skye",
 14: "Yoru",
 15: "Astra",
-16: "KAY/O"
+16: "KAY/O",
+17: "Fade",
+18: "Neon"
 }
 
 MAX_AGENTS = len(AGENTS)
